@@ -1,5 +1,5 @@
 var url = "https://restcountries.eu/rest/v1/name/";
-var countruesList = $('#countries');
+var countriesList = $('#countries');
 
 $('#search').click(searchCountries);
 
